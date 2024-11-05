@@ -1,0 +1,3 @@
+[submodule "Tic-Tac-Toe_MiniMax"]
+	path = Tic-Tac-Toe_MiniMax
+	url = https://github.com/ricas28/Tic-Tac-Toe-MiniMax-
