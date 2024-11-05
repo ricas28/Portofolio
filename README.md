@@ -3,12 +3,17 @@ I'm currently studying Computer Science at [**Instituto Superior Técnico**](htt
 
 ## **Content Table**
 - [Skills](#skills)
+- [Cloning the repository](#cloning-the-repository)
 - [Projects](#projects)
   1. [Tic-Tac-Toe game with MiniMax algorithm](#tic-tac-toe-game-with-minimax-algorithm)
 
 ## **Skills**
 - **Languages:** Python, Java, C, Risc-V Assembly, Prolog
 - **Tools:** Git, Vs Code
+
+## **Cloning the repository**
+- **SSH:** git clone --recurse-submodules git@github.com:ricas28/Portofolio.git
+- **HTTPS:** git clone --recurse-submodules https://github.com/ricas28/Portofolio.git
 
 ## Projects
 ### **Tic-Tac-Toe game with MiniMax algorithm**
