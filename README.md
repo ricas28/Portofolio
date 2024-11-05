@@ -8,10 +8,10 @@ I'm currently studying Computer Science at [**Instituto Superior Técnico**](htt
 ## Projects
 ### **Tic-Tac-Toe game with miniMax algorithm**
 #### **Description:**
-This project implements the classic game of Tic-Tac-Toe where the user can play against other player or a computer. The computer uses the miniMax algorithm to make the most optimal plays on a current game state. This project was made as my starting point in taking interest on logic and AI!
+This project implements the classic game of Tic-Tac-Toe where the user can play against another player or a computer. The computer uses the miniMax algorithm to make the most optimal plays on a current game state. This project was made as my starting point in taking interest on logic and AI!
 
 #### **Features**
-- **Game Modes:** Play against other player or a computer. Computer Vs Computer mode was also implemented.
+- **Game Modes:** Play against another player or a computer. Computer Vs Computer mode was also implemented.
 - **Artifical Intelligence:** The computer uses the miniMax algorithm to make the most optimal plays.
 - **Simple interface:** The program runs on a terminal console, having a simple and easy to read interface.
 - **Tecnologys:** Project made on the C language using libraries (besisdes the usual ones) such as <math.h>, <time.h>, <unistd.h> and <ctype.h>.
