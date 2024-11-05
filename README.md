@@ -2,9 +2,9 @@
 I'm currently studying Computer Science at [**Instituto Superior Técnico**](https://tecnico.ulisboa.pt/pt/) (Lisbon, Portugal). I created this repository to store all of my personal projects while I take my degree! Hope you enjoy :)
 
 ## **Content Table**
--[Skills](#skills)
--[Projects](#projects)
-  1.[Tic-Tac-Toe game with MiniMax algorithm](#tic-tac-toe-game-with-minimax-algorithm)
+- [Skills](#skills)
+- [Projects](#projects)
+  1. [Tic-Tac-Toe game with MiniMax algorithm](#tic-tac-toe-game-with-minimax-algorithm)
 
 ## **Skills**
 - **Languages:** Python, Java, C, Risc-V Assembly, Prolog
