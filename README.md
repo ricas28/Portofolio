@@ -12,8 +12,8 @@ I'm currently studying Computer Science at [**Instituto Superior Técnico**](htt
 - **Tools:** Git, Vs Code
 
 ## **Cloning the repository**
-- **SSH:** git clone --recurse-submodules git@github.com:ricas28/Portofolio.git
-- **HTTPS:** git clone --recurse-submodules https://github.com/ricas28/Portofolio.git
+- **SSH:**  git clone --recurse-submodules git@github.com:ricas28/Portofolio.git
+- **HTTPS:**  git clone --recurse-submodules https://github.com/ricas28/Portofolio.git
 
 ## Projects
 ### **Tic-Tac-Toe game with MiniMax algorithm**
