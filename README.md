@@ -1,33 +1,74 @@
-# **Hello I'm Ricardo Santos!**
-I'm currently studying Computer Science at [**Instituto Superior Técnico**](https://tecnico.ulisboa.pt/pt/) (Lisbon, Portugal). I created this repository to store all of my personal projects while I take my degree! Hope you enjoy :)
+# 👋 Hello, I'm Ricardo Santos!
 
-## **Content Table**
+I'm currently studying **Computer Science** at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/pt/) (Lisbon, Portugal).  
+I created this repository to store all of my personal projects during my degree.  
+Hope you enjoy exploring them!
+
+---
+
+## 📚 Table of Contents
 - [Skills](#skills)
-- [Cloning the repository](#cloning-the-repository)
+- [Git Submodules Management](#git-submodules-management)
 - [Projects](#projects)
-  1. [Tic-Tac-Toe game with MiniMax algorithm](#tic-tac-toe-game-with-minimax-algorithm)
+- [Contact](#contact)
 
-## **Skills**
-- **Languages:** Python, Java, C, Risc-V Assembly, Prolog
-- **Tools:** Git, Vs Code
+---
 
-## **Cloning the repository**
-- **SSH:**  git clone --recurse-submodules git@github.com:ricas28/Portofolio.git
-- **HTTPS:**  git clone --recurse-submodules https://github.com/ricas28/Portofolio.git
+## 🧠 Skills
+- **Languages:** Python, Java, C, RISC-V Assembly, Prolog  
+- **Tools:** Git, VS Code  
 
-## Projects
-### **Tic-Tac-Toe game with MiniMax algorithm**
-#### **Description:**
-This project implements the classic game of Tic-Tac-Toe where the user can play against another player or a computer. The computer uses the MiniMax algorithm to make the most optimal plays on a current game state. This project was made as my starting point in taking interest on logic and AI!
+---
 
-#### **Features:**
-- **Game Modes:** Play against another player or a computer. Computer Vs Computer mode was also implemented.
-- **Artifical Intelligence:** The computer uses the MiniMax algorithm to make the most optimal plays.
-- **Simple interface:** The program runs on a terminal console, having a simple and easy to read interface.
-- **Tecnologys:** Project made on the C language using libraries (besisdes the usual ones) such as <math.h>, <time.h>, <unistd.h> and <ctype.h>.
+## 📦 Git Submodules Management
 
-For more details check out my repository for this project!
-- [Repository for Tic-Tac-Toe project](https://github.com/ricas28/Tic-Tac-Toe-MiniMax-)
+This portfolio uses **Git submodules** to include individual projects.  
+Each submodule is a separate repository, maintained independently, and the portfolio only stores a **reference (commit)** to each of them.
 
-## Contact
-- Email: rcurveira05@gmail.com
+A **submodule** is simply a link to another Git repository inside this one.  
+Instead of copying the code, Git tracks **which exact commit** of each project is included.
+
+- ✅ Keeps the original structure and history of each project  
+- ✅ Allows projects to be updated independently  
+- ⚠️ Changes in submodules are **not automatically reflected** in the portfolio  
+
+---
+
+### ⚙️ Managing Submodules
+
+| Action | Commands |
+|--------|-----------|
+| ➕ **Add** | `git submodule add <repo-url> <path>`<br>`git commit -m "Added new submodule"` |
+| 🔁 **Update** | `cd <path>`<br>`git pull origin main`<br>`cd ../..`<br>`git add <path>`<br>`git commit -m "Updated submodule"` |
+| 🧹 **Remove** | `git submodule deinit -f <path>`<br>`rm -rf .git/modules/<path>`<br>`git rm -f <path>`<br>`git commit -m "Removed submodule"` |
+| 🔄 **Update All** | `git submodule update --remote --merge`<br>`git add .`<br>`git commit -m "Updated all submodules"` |
+| 📥 **Clone with Submodules** | `git clone <portfolio-url>`<br>`cd <portfolio-name>`<br>`git submodule update --init --recursive` |
+
+---
+
+## 💻 Projects
+
+### 🕹️ **Tic-Tac-Toe with MiniMax Algorithm**
+**Description:**  
+A simple implementation of the classic Tic-Tac-Toe game where the user can play against another player or an AI opponent that uses the **MiniMax algorithm** to make optimal decisions.  
+This was my first project exploring **logic and artificial intelligence**.
+
+🔗 [Repository → Tic-Tac-Toe MiniMax](https://github.com/ricas28/Tic-Tac-Toe-MiniMax-)
+
+---
+
+### ✅ **Full-Stack To-Do List App**
+**Description:**  
+A simple **full-stack to-do list application** built to learn how to integrate a **front-end, back-end, and database**.  
+The app allows users to add, edit, and delete tasks, and automatically persists data in the connected database.  
+This project helped me understand the fundamentals of **client-server communication**, **REST APIs**, and **database management**.
+
+🔗 [Repository → To-Do List App](https://github.com/ricas28/To-Do-list)
+
+---
+
+## 📬 Contact
+- **Email:** rcurveira05@gmail.com  
+- **GitHub:** [@ricas28](https://github.com/ricas28)
+
+---
