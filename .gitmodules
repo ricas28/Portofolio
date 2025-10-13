@@ -1,3 +1,7 @@
 [submodule "Tic-Tac-Toe_MiniMax"]
 	path = Tic-Tac-Toe_MiniMax
 	url = https://github.com/ricas28/Tic-Tac-Toe-MiniMax-
+
+[submodule "To-Do-List"]
+	path = To-Do-List
+	url = https://github.com/ricas28/To-Do-List
