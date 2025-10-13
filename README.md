@@ -7,15 +7,16 @@ Hope you enjoy exploring them!
 ---
 
 ## 📚 Table of Contents
-- [Skills](#skills)
-- [Git Submodules Management](#git-submodules-management)
-- [Projects](#projects)
-- [Contact](#contact)
+- [🧠 Skills](#skills)
+- [📦 Git Submodules Management](#git-submodules-management)
+- [💻 Projects](#projects)
+- [📬 Contact](#contact)
 
 ---
 
 ## 🧠 Skills
-- **Languages:** Python, Java, C, RISC-V Assembly, Prolog  
+- **Languages:** Python, Java, C, RISC-V Assembly, Prolog
+- **Web Development:** HTML, basic CSS, JavaScript / TypeScript  
 - **Tools:** Git, VS Code  
 
 ---
