@@ -7,10 +7,10 @@ Hope you enjoy exploring them!
 ---
 
 ## 📚 Table of Contents
-- [🧠 Skills](#skills)
-- [📦 Git Submodules Management](#git-submodules-management)
-- [💻 Projects](#projects)
-- [📬 Contact](#contact)
+- [🧠 Skills](#-skills)
+- [📦 Git Submodules Management](#-git-submodules-management)
+- [💻 Projects](#-projects)
+- [📬 Contact](#-contact)
 
 ---
 
