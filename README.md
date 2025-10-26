@@ -75,18 +75,6 @@ This project helped me understand the **inner workings of neural networks** and 
 
 🔗 [Repository → Neural Network From Scratch](https://github.com/ricas28/Neural-Network-from-Scratch)
 
----
-
-### ✅ **Full-Stack To-Do List App**
-**Description:**  
-A simple **full-stack to-do list application** built to learn how to integrate a **front-end, back-end, and database**.  
-The app allows users to add, edit, and delete tasks, and automatically persists data in the connected database.  
-This project helped me understand the fundamentals of **client-server communication**, **REST APIs**, and **database management**.
-
-🔗 [Repository → To-Do List App](https://github.com/ricas28/To-Do-list)
-
----
-
 ## 📬 Contact
 - **Email:** rcurveira05@gmail.com  
 - **GitHub:** [@ricas28](https://github.com/ricas28)
