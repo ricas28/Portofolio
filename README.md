@@ -75,6 +75,8 @@ This project helped me understand the **inner workings of neural networks** and 
 
 🔗 [Repository → Neural Network From Scratch](https://github.com/ricas28/Neural-Network-from-Scratch)
 
+---
+
 ## 📬 Contact
 - **Email:** rcurveira05@gmail.com  
 - **GitHub:** [@ricas28](https://github.com/ricas28)
