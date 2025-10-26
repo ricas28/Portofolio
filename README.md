@@ -68,6 +68,15 @@ This project helped me understand the fundamentals of **client-server communicat
 
 ---
 
+### 🧠 **Neural Network From Scratch**  
+**Description:**  
+A **fully connected neural network (MLP)** implemented from scratch using **NumPy**, featuring **forward and backward propagation**, **mini-batch training**, and **model saving/loading** with `pickle`.  
+This project helped me understand the **inner workings of neural networks** and the fundamentals of **deep learning algorithms**.  
+
+🔗 [Repository → Neural Network From Scratch](https://github.com/ricas28/Neural-Network-from-Scratch)
+
+---
+
 ## 📬 Contact
 - **Email:** rcurveira05@gmail.com  
 - **GitHub:** [@ricas28](https://github.com/ricas28)
