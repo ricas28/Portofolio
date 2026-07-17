@@ -17,7 +17,7 @@ Hope you enjoy exploring them!
 ## 🧠 Skills
 - **Languages:** Python, Java, C, RISC-V Assembly, Prolog
 - **Web Development:** HTML, basic CSS, JavaScript / TypeScript  
-- **Tools:** Git, VS Code  
+- **Tools:** Git, VS Code, Docker 
 
 ---
 
