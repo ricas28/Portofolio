@@ -49,6 +49,24 @@ Instead of copying the code, Git tracks **which exact commit** of each project i
 
 ## 💻 Projects
 
+### 🧠 **Neural Network From Scratch**  
+**Description:**  
+A **fully connected neural network (MLP)** implemented from scratch using **NumPy**, featuring **forward and backward propagation**, **mini-batch training**, and **model saving/loading** with `pickle`.  
+This project helped me understand the **inner workings of neural networks** and the fundamentals of **deep learning algorithms**.  
+
+🔗 [Repository → Neural Network From Scratch](https://github.com/ricas28/Neural-Network-from-Scratch)
+
+---
+
+### 📢 **MEIC Announcements**
+**Description:**  
+A lightweight service that monitors **Fénix course announcement pages** and automatically posts new announcements to a Discord server using **Discord Webhooks**. It periodically checks configured courses, compares the latest announcement against a stored state in **Redis**, and only sends notifications when new announcements are detected.  
+This project was built to automate course announcements for IST students while exploring **web scraping, REST APIs, deployment, and cloud services**.
+
+🔗 [Repository → MEIC Announcements](https://github.com/ricas28/MEIC-Announcements)
+
+---
+
 ### 🕹️ **Tic-Tac-Toe with MiniMax Algorithm**
 **Description:**  
 A simple implementation of the classic Tic-Tac-Toe game where the user can play against another player or an AI opponent that uses the **MiniMax algorithm** to make optimal decisions.  
@@ -65,15 +83,6 @@ The app allows users to add, edit, and delete tasks, and automatically persists 
 This project helped me understand the fundamentals of **client-server communication**, **REST APIs**, and **database management**.
 
 🔗 [Repository → To-Do List App](https://github.com/ricas28/To-Do-list)
-
----
-
-### 🧠 **Neural Network From Scratch**  
-**Description:**  
-A **fully connected neural network (MLP)** implemented from scratch using **NumPy**, featuring **forward and backward propagation**, **mini-batch training**, and **model saving/loading** with `pickle`.  
-This project helped me understand the **inner workings of neural networks** and the fundamentals of **deep learning algorithms**.  
-
-🔗 [Repository → Neural Network From Scratch](https://github.com/ricas28/Neural-Network-from-Scratch)
 
 ---
 
