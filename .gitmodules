@@ -8,3 +8,6 @@
 [submodule "Neural-Network-from-Scratch"]
 	path = Neural-Network-from-Scratch
 	url = https://github.com/ricas28/Neural-Network-from-Scratch
+[submodule "MEIC-Announcements"]
+	path = MEIC-Announcements
+	url = https://github.com/ricas28/MEIC-Announcements
